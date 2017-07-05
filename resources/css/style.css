@@ -1,0 +1,30 @@
+* {
+  background-color: black;
+  text-align: center;
+  font-family: verdana;
+}
+h1 {
+  color: white;
+}
+#discover {
+  text-align: center;
+  font-weight: normal;
+  font-size: 50px;
+}
+h5 {
+  color: aquamarine;
+  font-size: 16px;
+}
+#personal {
+  font-weight: 300;
+  font-size: 42px;
+}
+p {
+  color: gray;
+  font-size: 21px;
+}
+#copywright {
+  text-align: right;
+  color: gray;
+  font-weight: lighter;
+}
